@@ -1,0 +1,8 @@
+docker
+Jetson.GPIO
+sounddevice
+numpy
+torch
+requests
+ollama
+pyright
